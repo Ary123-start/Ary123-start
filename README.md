@@ -1,5 +1,7 @@
 # ❤Ary123-start❤
+
 **`desenvolvevora fullstack`**
+
 Me chamo Arianne Claudia da Silva, tenho 29 anos e su natural de olinda. ensino médio completo em escola pública, formação técnica em logística. Atualmente, estou cursando análise e desenvolvimento de sistemas na 
 Unicesumar e sou aluna da devclub, uma plataforma de ensino tecnológicos. Sou apaixonada por aprender, gosto de fazer bastante perguntas e entender o porque das coisas e como elas funcionam. sou muito curiosa também amo praia Praia, livros, aventuras e me comunico bastante com as pessoas.
 
